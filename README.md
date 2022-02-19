@@ -24,4 +24,4 @@ Kullanıcın girdiği email ve parola ile kullanıcının sisteme giriş yaptı�
 Kullanıcı sisteme giriş yaptıktan sonra gelen ekrandır.. Cihazların üzerinde konumlandırıldığı bir harita açılır. Harita üzerinde bulunan cihazlara tıklandığında cihazların özellikleri için bir pencere açılır.
 
 
-> **Note:** Haritanın çalıştırılabilmesi için DeviceStatusMap.js içerisinde yer alan googleMapsApiKey:  "YOUR_API_KEY"  tanımlaması gerekmektedir.
+> **Note:** Haritanın çalıştırılabilmesi için DeviceStatusMap.js içerisinde yer alan googleMapsApiKey:  "YOUR_API_KEY"  tanımlaması gerekmektedir.![login](https://user-images.githubusercontent.com/32018846/154810156-7c4a8fb1-93d4-4ce5-b877-772e71b94bf1.PNG)
